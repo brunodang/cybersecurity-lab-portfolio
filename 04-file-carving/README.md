@@ -86,6 +86,8 @@ SHA-256 hashes are identical:
 ## Skills demonstrated
 
 - File carving with scalpel and signature configuration
+
+- **See also:** [Case 2 – Recovering files from an evidence disk image](case2-evidence-image-README.md)
 - Understanding file signatures (magic bytes, headers and footers)
 - Raw disk image handling with `dd`
 - Evidence integrity verification with SHA-256
