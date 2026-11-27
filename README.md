@@ -16,7 +16,7 @@ Each task is written up as a short report: what I did, the tools and commands us
 | 2 | [Packet Capture Analysis](02-packet-capture-analysis/) | Packet Capture Analysis/Network traffic forensics | Wireshark | ✅ Complete |
 | 3 | [Memory Dump Analysis](03-memory-forensics/) | Memory forensics | Volatility 3 | ✅ Complete |
 | 4 | [File Carving](04-file-carving/) | Data recovery: self-built lab + evidence image | scalpel / foremost / Sleuth Kit | ✅ Commplete |
-| 5 | Vulnerability Scan Report | Vulnerability assessment | OpenVAS / GVM | 🔜 Planned |
+| 5 | [Vulnerability Scan](05-vulnerability-scan/) | Vulnerability assessment | OpenVAS / GVM | ✅ Complete |
 | 6 | Wireless Network Scan | Wireless recon | airodump-ng | 🔜 Planned |
 
 *(Table updates as each task is completed.)*
