@@ -17,8 +17,7 @@ Each task is written up as a short report: what I did, the tools and commands us
 | 3 | [Memory Dump Analysis](03-memory-forensics/) | Memory forensics | Volatility 3 | ✅ Complete |
 | 4 | [File Carving](04-file-carving/) | Data recovery: self-built lab + evidence image | scalpel / foremost / Sleuth Kit | ✅ Commplete |
 | 5 | [Vulnerability Scan](05-vulnerability-scan/) | Vulnerability assessment | OpenVAS / GVM | ✅ Complete |
-| 6 | Wireless Network Scan | Wireless recon | airodump-ng | 🔜 Planned |
-
+| 6 | [Wireless Network Scan](06-wireless-scan/) | Wireless recon | airodump-ng | ✅ Complete |
 *(Table updates as each task is completed.)*
 
 ---
